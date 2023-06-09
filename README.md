@@ -59,6 +59,10 @@ def max_marks(list1):
 ## Output:
 
 ![1](https://github.com/JavithMohamad/FindMaximum/assets/121215951/46020de2-0525-4ba8-8bc7-d08f76a3d91c)
+![2](https://github.com/JavithMohamad/FindMaximum/assets/121215951/2f4273bf-686e-4109-b279-6317caf5b0a2)
+![3](https://github.com/JavithMohamad/FindMaximum/assets/121215951/8646f8c6-4516-442d-ae21-cc4349d5b832)
+
+
 
 
 ## Result:
